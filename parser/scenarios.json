@@ -1,0 +1,770 @@
+{
+    "@поклониться_15804_999": {
+        "CENTRAL": {
+         "scenarios": {
+          "гость поклонился королю": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.20885194001495166,
+                   "tree_proximity": 0.20885194001495166,
+                   "scenario": "@поклониться_15804_999"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "поклониться",
+                  "wordform": "поклонился"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "гость",
+                  "wordform": "гость"
+                 },
+                 {
+                  "valency_alias": "ben",
+                  "lemma": "король",
+                  "wordform": "королю"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        },
+        "BEFORE": {
+         "scenarios": {
+          "гость пришёл к королю": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.2761527398489404,
+                   "tree_proximity": 0.2761527398489404,
+                   "scenario": "@прийти_4121_VERB_13"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "прийти",
+                  "wordform": "пришел"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "гость",
+                  "wordform": "гость"
+                 },
+                 {
+                  "valency_alias": "targ",
+                  "lemma": "король",
+                  "wordform": "королю"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        },
+        "INTERP": {
+         "scenarios": {
+          "гость приветствовал короля": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.1855530066445392,
+                   "tree_proximity": 0.1855530066445392,
+                   "scenario": "@поблагодарить_15315_1421"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "приветствовать",
+                  "wordform": "приветствовал"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "гость",
+                  "wordform": "гость"
+                 },
+                 {
+                  "valency_alias": "pat",
+                  "lemma": "король",
+                  "wordform": "короля"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.1855530066445392,
+                   "tree_proximity": 0.1855530066445392,
+                   "scenario": "@поблагодарить_15315_1421"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "приветствовать",
+                  "wordform": "приветствовал"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "гость",
+                  "wordform": "гость"
+                 },
+                 {
+                  "valency_alias": "pat",
+                  "lemma": "король",
+                  "wordform": "короля"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          },
+          "гость поблагодарил короля": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.1951452777257324,
+                   "tree_proximity": 0.1951452777257324,
+                   "scenario": "@поблагодарить_15315_1421"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "поблагодарить",
+                  "wordform": "поблагодарил"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "гость",
+                  "wordform": "гость"
+                 },
+                 {
+                  "valency_alias": "pat",
+                  "lemma": "король",
+                  "wordform": "короля"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        }
+    },
+    "@искать_1845_VERB_2": {
+        "CENTRAL": {
+         "scenarios": {
+          "полиция искала преступника": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.34891784890912775,
+                   "tree_proximity": 0.34891784890912775,
+                   "scenario": "@искать_1845_VERB_2"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "искать",
+                  "wordform": "искала"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "полиция",
+                  "wordform": "полиция"
+                 },
+                 {
+                  "valency_alias": "pat",
+                  "lemma": "преступник",
+                  "wordform": "преступника"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        },
+        "BEFORE": {
+         "scenarios": {
+          "преступник совершил преступление": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.33454724996490487,
+                   "tree_proximity": 0.33454724996490487,
+                   "scenario": "@совершить_19153_VERB_3"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "совершить",
+                  "wordform": "совершил"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "преступник",
+                  "wordform": "преступник"
+                 },
+                 {
+                  "valency_alias": "pat",
+                  "lemma": "преступление",
+                  "wordform": "преступление"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.27233955114057873,
+                   "tree_proximity": 0.27233955114057873,
+                   "scenario": "@совершить_19153_VERB_4"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "совершить",
+                  "wordform": "совершил"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "преступник",
+                  "wordform": "преступник"
+                 },
+                 {
+                  "valency_alias": "voc",
+                  "lemma": "преступление",
+                  "wordform": "преступление"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        },
+        "AFTER": {
+         "scenarios": {
+          "полиция нашла преступника": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.25645109931872584,
+                   "tree_proximity": 0.25645109931872584,
+                   "scenario": "@найти_2729_VERB_2"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "найти",
+                  "wordform": "нашла"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "полиция",
+                  "wordform": "полиция"
+                 },
+                 {
+                  "valency_alias": "cont",
+                  "lemma": "преступник",
+                  "wordform": "преступника"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          },
+          "полиция не нашла преступника": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.2585437829487418,
+                   "tree_proximity": 0.2585437829487418,
+                   "scenario": "@искать_1845_VERB_2"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "найти",
+                  "wordform": "нашла"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "полиция",
+                  "wordform": "полиция"
+                 },
+                 {
+                  "valency_alias": "pat",
+                  "lemma": "преступник",
+                  "wordform": "преступника"
+                 }
+                ]
+               }
+              ]
+             },
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.25645109931872584,
+                   "tree_proximity": 0.25645109931872584,
+                   "scenario": "@найти_2729_VERB_2"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "найти",
+                  "wordform": "нашла"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "полиция",
+                  "wordform": "полиция"
+                 },
+                 {
+                  "valency_alias": "cont",
+                  "lemma": "преступник",
+                  "wordform": "преступника"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        },
+        "INTERP": {
+         "scenarios": {
+          "преступник скрывался от полиции": {
+           "semantics": {
+            "semantics": [
+             {
+              "facts": [
+               {
+                "meta": {
+                 "metadata": {
+                  "semantics_proximity": {
+                   "proximity": 0.2894784155236909,
+                   "tree_proximity": 0.2894784155236909,
+                   "scenario": "@исчезать_1873_VERB_3"
+                  }
+                 }
+                },
+                "valencies": [
+                 {
+                  "valency_alias": "p",
+                  "lemma": "скрываться",
+                  "wordform": "скрывался"
+                 },
+                 {
+                  "valency_alias": "ag",
+                  "lemma": "преступник",
+                  "wordform": "преступник"
+                 },
+                 {
+                  "valency_alias": "ca",
+                  "lemma": "полиция",
+                  "wordform": "полиции"
+                 }
+                ]
+               }
+              ]
+             }
+            ]
+           }
+          }
+         }
+        }
+    },
+    "@встретиться_707_VERB_1": {
+        "CENTRAL": {
+     "scenarios": {
+      "женщина встретилась глазами с матерью": {
+       "semantics": {
+        "semantics": [
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.35821698241706557,
+               "tree_proximity": 0.35821698241706557,
+               "scenario": "@встретиться_707_VERB_1"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "встретиться",
+              "wordform": "встретилась"
+             },
+             {
+              "valency_alias": "ag",
+              "lemma": "женщина",
+              "wordform": "женщина"
+             },
+             {
+              "valency_alias": "instr",
+              "lemma": "глаз",
+              "wordform": "глазами"
+             },
+             {
+              "valency_alias": "ca",
+              "lemma": "матерь",
+              "wordform": "матерью"
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.35635521171132856,
+               "tree_proximity": 0.35635521171132856,
+               "scenario": "@встретиться_707_VERB_1"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "встретиться",
+              "wordform": "встретилась"
+             },
+             {
+              "valency_alias": "ag",
+              "lemma": "женщина",
+              "wordform": "женщина"
+             },
+             {
+              "valency_alias": "instr",
+              "lemma": "глаз",
+              "wordform": "глазами"
+             },
+             {
+              "valency_alias": "ca",
+              "lemma": "мать",
+              "wordform": "матерью"
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.319566266389601,
+               "tree_proximity": 0.18003831989373528,
+               "scenario": "@встретиться_707_VERB_1"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "встретиться",
+              "wordform": "встретилась"
+             },
+             {
+              "valency_alias": "ag",
+              "lemma": "женщина",
+              "wordform": "женщина"
+             },
+             {
+              "valency_alias": "instr",
+              "lemma": "глаз",
+              "wordform": "глазами"
+             }
+            ]
+           },
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.04051037339786954,
+               "tree_proximity": 0.18003831989373528,
+               "scenario": "@человек_SA_1"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "sa",
+              "lemma": "мать",
+              "wordform": "матерью"
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.319566266389601,
+               "tree_proximity": 0.18003831989373528,
+               "scenario": "@встретиться_707_VERB_1"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "встретиться",
+              "wordform": "встретилась"
+             },
+             {
+              "valency_alias": "ag",
+              "lemma": "женщина",
+              "wordform": "женщина"
+             },
+             {
+              "valency_alias": "instr",
+              "lemma": "глаз",
+              "wordform": "глазами"
+             }
+            ]
+           },
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.04051037339786954,
+               "tree_proximity": 0.18003831989373528,
+               "scenario": "@человек_SA_1"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "sa",
+              "lemma": "матерь",
+              "wordform": "матерью"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    },
+        "INTERP": {
+     "scenarios": {
+      "женщина смотрела на мать": {
+       "semantics": {
+        "semantics": [
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.2751983427699913,
+               "tree_proximity": 0.2751983427699913,
+               "scenario": "@смотреть_4923_VERB_2"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "смотреть",
+              "wordform": "смотрела"
+             },
+             {
+              "valency_alias": "ag",
+              "lemma": "женщина",
+              "wordform": "женщина"
+             },
+             {
+              "valency_alias": "targ",
+              "lemma": "мать",
+              "wordform": "мать"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      },
+      "мать смотрела на женщину": {
+       "semantics": {
+        "semantics": [
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.2489622171509019,
+               "tree_proximity": 0.2489622171509019,
+               "scenario": "@смотреть_4923_VERB_2"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "смотреть",
+              "wordform": "смотрела"
+             },
+             {
+              "valency_alias": "ag",
+              "lemma": "мать",
+              "wordform": "мать"
+             },
+             {
+              "valency_alias": "targ",
+              "lemma": "женщина",
+              "wordform": "женщину"
+             }
+            ]
+           }
+          ]
+         },
+         {
+          "facts": [
+           {
+            "meta": {
+             "metadata": {
+              "semantics_proximity": {
+               "proximity": 0.22548477219827273,
+               "tree_proximity": 0.22548477219827273,
+               "scenario": "@смотреть_4923_VERB_2"
+              }
+             }
+            },
+            "valencies": [
+             {
+              "valency_alias": "p",
+              "lemma": "смотреть",
+              "wordform": "смотрела"
+             },
+             {
+              "valency_alias": "cont",
+              "lemma": "мать",
+              "wordform": "мать"
+             },
+             {
+              "valency_alias": "targ",
+              "lemma": "женщина",
+              "wordform": "женщину"
+             }
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    }
+    }
+}
